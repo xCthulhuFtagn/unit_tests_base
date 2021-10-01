@@ -1,0 +1,19 @@
+# ninja log v5
+13963	17305	6547970246931046	tst/ExampleProject_tst.exe	5b569258be1870c4
+14702	14798	6547970221981042	lib/libgmock_main.a	9ddde22160d542c7
+13998	14118	6547970215181034	lib/libgtest_main.a	6f6a0f6bf393ce77
+8984	13963	6547970213601053	lib/libgtest.a	ad456e01e2f99716
+44	245	6547970075601049	src/CMakeFiles/ExampleProject_run.dir/Formula.cpp.obj	2d61d3951f8cde71
+13978	14702	6547970221001039	lib/libgmock.a	26eaac238f27ac92
+550	818	6547970082071074	src/ExampleProject_run.exe	80f82edf576903c0
+80	249	6547970075921079	src/CMakeFiles/ExampleProject_lib.dir/Formula.cpp.obj	2a62e50c784d721a
+21	548	6547970079421067	src/CMakeFiles/ExampleProject_run.dir/main.cpp.obj	2f44da7e57f3fe30
+11	1272	6547970086681063	tst/CMakeFiles/ExampleProject_tst.dir/main.cpp.obj	ff74f398887e7fd5
+92	1475	6547970088711063	tst/CMakeFiles/ExampleProject_tst.dir/Formula-test.cpp.obj	b9fbee3179eb4a7f
+576	760	6547970081571051	src/libExampleProject_lib.a	95661e3296917ab1
+1	1363	6547970087631045	tst/CMakeFiles/ExampleProject_tst.dir/another_test.cpp.obj	29d069b876f098ed
+55	576	6547970079671054	src/CMakeFiles/ExampleProject_lib.dir/main.cpp.obj	51d87c7d9c70a615
+130	1666	6547970090631056	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	ab4e5e0b0557bf8b
+158	3556	6547970109541059	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	ee4131e86df3fcbd
+225	1512	6547970089091082	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	b8a3733db3e3e9aa
+195	8982	6547970163751037	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	9441c4de28a6adde
